@@ -1,5 +1,10 @@
 aaaaaaaa
 bbbbbbbb
 bbbbbb
+<<<<<<< HEAD
 今天需要学习学习TortoiseGi
 哈哈哈哈哈哈
+=======
+今天需要学习学习TortoiseGit
+今天下雨了
+>>>>>>> 85473275c223d1ff57efa597ec8969c36dd7df30
